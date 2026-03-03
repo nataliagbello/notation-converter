@@ -16,6 +16,9 @@ The calculation is performed on the **Postfix expression**. The algorithm iterat
 ###  Complexity Analysis
 The nature of this problem is defined as $\Omega(n)$, as every element of the input must be processed at least once. Since the proposed algorithm achieves a time complexity of $O(n)$ by handling the expression in a single pass with efficient stack operations, $\Omega(n) = O(n)$, the implementation is considered optimal.
 
+### Testing the algorithm
+To test the converter, simply run the script. A default test expression is provided at the bottom of the file.
+
   
 
  
